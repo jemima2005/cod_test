@@ -1,7 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 from django.contrib.sessions.models import Session
-from cinetpay_sdk.s_d_k import Cinetpay
+# from cinetpay_sdk.s_d_k import Cinetpay
 from shop import models as Produit
 from django.utils.timezone import now
 from datetime import timedelta

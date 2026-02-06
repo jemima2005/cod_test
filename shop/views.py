@@ -5,7 +5,7 @@ from django.contrib.auth.decorators import login_required
 import json
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
-from cinetpay_sdk.s_d_k import Cinetpay
+# from cinetpay_sdk.s_d_k import Cinetpay
 from cities_light.models import City
 
 from django.contrib import messages

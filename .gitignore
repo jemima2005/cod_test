@@ -1,1 +1,18 @@
-/venv
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+env/
+
+# Django
+db.sqlite3
+*.log
+
+# Media uploads
+media/
+
+# Selenium / drivers
+chromedriver*

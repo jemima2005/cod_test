@@ -79,7 +79,7 @@ INSTALLED_APPS = [
     'site_config.apps.SiteConfigConfig',
     'website.apps.WebsiteConfig',
     'client.apps.ClientConfig',
-    'django_cron',
+    
 ]
 
 MIDDLEWARE = [
